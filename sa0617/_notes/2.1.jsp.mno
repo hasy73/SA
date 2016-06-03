@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:movNo;datatype:CHAR,name:movName;datatype:VARCHAR,name:level;datatype:CHAR,name:director;datatype:VARCHAR,name:actor;datatype:VARCHAR,name:ondate;datatype:DATE,name:time;datatype:CHAR,name:empNo;datatype:CHAR,name:pic;datatype:VARCHAR,name:type;datatype:CHAR,name:isoff;datatype:CHAR,name:connect;datatype:VARCHAR,name:introduction;datatype:VARCHAR" />
+</info>

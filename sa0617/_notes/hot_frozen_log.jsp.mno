@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:電影編號;datatype:CHAR,name:電影名稱;datatype:VARCHAR,name:級別;datatype:CHAR,name:導演;datatype:VARCHAR,name:演員;datatype:VARCHAR,name:上映日期;datatype:DATE,name:員工編號;datatype:CHAR,name:pic;datatype:VARCHAR" />
+</info>
